@@ -25,11 +25,10 @@ website:
 
     right:
       - icon: github
-        href: "https://github.com/Asmithj/AsmithJoseph-MADA-portfolio"      
+        href: "https://github.com/Asmithj/AsmithJoseph-MADA-portfolio-"      
 
 format:
   html:
     theme: cosmo
     highlight: monokai
-    css: styles.css  # Ensure this file exists
-    toc: false
+    css: styles.css  
